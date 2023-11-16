@@ -1,0 +1,7 @@
+C:\Users\Usuário\Desktop\C#\TipoVariaveis\TipoVariaveis\bin\Debug\TipoVariaveis.exe.config
+C:\Users\Usuário\Desktop\C#\TipoVariaveis\TipoVariaveis\bin\Debug\TipoVariaveis.exe
+C:\Users\Usuário\Desktop\C#\TipoVariaveis\TipoVariaveis\bin\Debug\TipoVariaveis.pdb
+C:\Users\Usuário\Desktop\C#\TipoVariaveis\TipoVariaveis\obj\Debug\TipoVariaveis.csproj.AssemblyReference.cache
+C:\Users\Usuário\Desktop\C#\TipoVariaveis\TipoVariaveis\obj\Debug\TipoVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\C#\TipoVariaveis\TipoVariaveis\obj\Debug\TipoVariaveis.exe
+C:\Users\Usuário\Desktop\C#\TipoVariaveis\TipoVariaveis\obj\Debug\TipoVariaveis.pdb
